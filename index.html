@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somos Matemáticas - Cadena Ser Ávila</title>
+    <!-- Google Fonts: Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+</head>
+
+<body>
+
+    <header class="main-header">
+        <div class="container header-content">
+            <div class="logo-area">
+                <img src="Cadena Ser (3).jpg" alt="Cadena Ser Ávila" class="logo">
+            </div>
+            <div class="title-area">
+                <h1>Somos Matemáticas <span class="subtitle">– Cadena Ser Ávila –</span></h1>
+                <p class="author">Rubén Jiménez Jiménez</p>
+            </div>
+            <div class="logo-area">
+                <img src="Cadena Ser (4).jpg" alt="Cadena Ser Ávila" class="logo">
+            </div>
+            <!-- Season Nav removed from header, moved to main content interaction -->
+        </div>
+    </header>
+
+    <main class="container">
+
+        <section id="search-section" class="search-section">
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Buscar por número, fecha o palabra clave...">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    class="search-icon">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+            </div>
+        </section>
+
+        <section id="latest-program" class="latest-section">
+            <h2 class="section-title">Último Programa</h2>
+            <div class="hero-content">
+                <div class="hero-image-container">
+                    <img src="Rubén en la cadena ser.jpg" alt="Rubén Jiménez en Cadena Ser" class="hero-image">
+                </div>
+                <div id="latest-card-container" class="hero-card-container">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+        </section>
+
+        <section id="seasons-section" class="seasons-section">
+            <div class="seasons-header">
+                <h2 id="main-grid-title" class="section-title">Temporadas</h2>
+                <button id="back-to-home" class="hidden btn-text">← Volver a Temporadas</button>
+            </div>
+            <div id="seasons-grid" class="seasons-grid">
+                <!-- Cards for seasons or expanded lists -->
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2025 Somos Matemáticas - Rubén Jiménez Jiménez</p>
+    </footer>
+
+    <!-- Modal -->
+    <div id="program-modal" class="modal hidden">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modal-body">
+                <!-- Injected Content -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Template for Program Card -->
+    <template id="program-card-template">
+        <article class="program-card">
+            <div class="card-header">
+                <span class="program-number"></span>
+                <span class="program-date"></span>
+            </div>
+            <h3 class="program-title"></h3>
+            <div class="card-body">
+                <p class="program-summary line-clamp"></p>
+                <div class="audio-player-container">
+                    <a href="#" target="_blank" class="podcast-btn">Escuchar Podcast</a>
+                </div>
+            </div>
+            <div class="card-footer">
+                <button class="toggle-details">Ver Reto y Más</button>
+            </div>
+            <div class="card-details hidden">
+                <h4>Reto Mensual</h4>
+                <p class="program-challenge"></p>
+                <!-- Full summary if needed -->
+            </div>
+        </article>
+    </template>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+
+</html>
