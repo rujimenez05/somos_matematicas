@@ -13,16 +13,24 @@
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
 
     <!-- Google Analytics 4 (Solo tienes que descomentar y poner tu ID) -->
-    
+
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGZR9ECFQ6"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-      gtag('config', 'G-SGZR9ECFQ6');
+        gtag('config', 'G-SGZR9ECFQ6');
     </script>
-    
+
+    <script>
+        MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 </head>
 
 <body>
