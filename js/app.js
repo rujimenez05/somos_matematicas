@@ -67,6 +67,9 @@ function renderLatest() {
     const card = createProgramCard(latest, true);
     latestContainer.innerHTML = '';
     latestContainer.appendChild(card);
+    if (window.MathJax) {
+        window.MathJax.typesetPromise([latestContainer]).catch((err) => console.log(err));
+    }
 }
 
 function renderGrid() {
@@ -78,12 +81,16 @@ function renderGrid() {
         const matches = visiblePrograms.filter(program =>
             program.title.toLowerCase().includes(searchTerm) ||
             program.summary.toLowerCase().includes(searchTerm) ||
+            (program.challenge && program.challenge.toLowerCase().includes(searchTerm)) ||
             (program.date && program.date.includes(searchTerm))
         );
         if (matches.length === 0) {
             seasonsGrid.innerHTML = '<p class="no-results">No se encontraron programas.</p>';
         } else {
             matches.forEach(p => seasonsGrid.appendChild(createProgramCard(p)));
+        }
+        if (window.MathJax) {
+            window.MathJax.typesetPromise([seasonsGrid]).catch((err) => console.log(err));
         }
         return;
     }
@@ -104,6 +111,9 @@ function renderGrid() {
         });
 
         seasonEps.forEach(p => seasonsGrid.appendChild(createProgramCard(p)));
+        if (window.MathJax) {
+            window.MathJax.typesetPromise([seasonsGrid]).catch((err) => console.log(err));
+        }
     }
 }
 
@@ -160,7 +170,7 @@ function showModal(program) {
     const formattedChallenge = (program.challenge || 'No hay reto registrado.').replace(/\n/g, '<br>');
 
     modalBody.innerHTML = `
-        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--primary-gold); padding-bottom: 10px; margin-bottom: 15px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--primary-gold); padding-bottom: 10px; margin-bottom: 15px; padding-top: 25px;">
             <h2 style="color: var(--primary-blue); margin: 0;">${program.title}</h2>
             <span style="color: #666; font-size: 0.9rem;">Fecha de emisión: <strong>${program.date}</strong></span>
         </div>
@@ -169,6 +179,9 @@ function showModal(program) {
         <div style="margin-bottom: 25px; background: #f9f9f9; padding: 15px; border-radius: 8px;"><strong style="display:block; margin-bottom:5px; color: var(--primary-gold);">RETO MATEMÁTICO:</strong><p>${formattedChallenge}</p></div>
         ${program.link ? `<div style="text-align: center; margin-top: 30px;"><a href="${program.link}" target="_blank" class="podcast-btn" style="padding: 15px 30px; font-size: 1.1em;">🎧 Escuchar Podcast</a></div>` : ''}
     `;
+    if (window.MathJax) {
+        window.MathJax.typesetPromise([modalBody]).catch((err) => console.log(err));
+    }
     modal.classList.remove('hidden');
 }
 
