@@ -21,7 +21,7 @@
         "season": "Temporada 1",
         "title": "Programa 3",
         "date": "2017-11-29",
-        "link": "http://cadenaser.com/emisora/2017/11/30/ser_avila/1512027856_947761.amp.html",
+        "link": "https://cadenaser.com/audio/1765792780578/",
         "summary": "En este mateprograma hemos profundizado en el fascinante mundo de las paradojas, afirmaciones que encierran una aparente contradicción esencial para el pensamiento lógico y matemático. Exploramos su clasificación en cuatro categorías: afirmaciones que parecen falsas pero son verdaderas, verdaderas que son falsas, falacias (cadenas de razonamientos impecables que llevan a contradicciones) y declaraciones cuya veracidad es indecidible.\n\nAnalizamos ejemplos clásicos que tocan los límites de la lógica, como la curiosa ley de Sancho Panza en el Quijote, que nos obliga a pensar en las consecuencias de una premisa contradictoria. Abordamos también la famosa paradoja de Epiménides el cretense (\"Todos los cretenses son mentirosos\"), un dilema que sentó las bases para el estudio de la autorreferencia y la inconsistencia en los sistemas formales. Finalmente, recomendamos un libro que demuestra cómo estos conceptos estimulan la creatividad y la resolución de problemas matemáticos.",
         "challenge": "La escalera de un barco tiene 8 escalones. Entre escalón y escalón hay 30 centímetros, el último escalón está al borde del agua. Si la marea sube 25 centímetros cada hora. Al cabo de dos horas, ¿cuántos escalones cubre la marea?",
         "id": "3"
@@ -362,8 +362,8 @@
     {
         "season": "Temporada 5",
         "title": "Programa 41",
-        "date": "2021-09-08",
-        "link": "https://cadenaser.com/emisora/2021/09/16/ser_avila/1631785573_361287.html",
+        "date": "2021-09-15",
+        "link": "https://cadenaser.com/audio/1765799406424/",
         "summary": "En este mateprograma hemos hablado con Enrique Hernando, coordinador del programa ESTALMAT en Castilla y León y comienza su andadura en Ávila este curso. Enrique nos cuenta el origen del programa, cómo está organizado y cuáles son sus objetivos.",
         "challenge": "¿Qué día está justo a la mitad del año?",
         "id": "41"
@@ -390,7 +390,7 @@
         "season": "Temporada 5",
         "title": "Programa 44",
         "date": "2021-12-15",
-        "link": "https://cadenaser.com/emisora/2021/12/16/ser_avila/1639652133_042521.html",
+        "link": "https://cadenaser.com/audio/1765799592686/",
         "summary": "En este mateprograma hemos viajado al País de los Números de la mano de la obra Malditas Matemáticas. Alicia en el País de los Números. Hemos analizado cómo el autor, Carlo Frabetti, utiliza un enfoque lúdico para despertar el interés por esta ciencia, a través de personajes conocidos como Charles Dogson, quien representa a Lewis Carroll. Hemos explorado los contenidos matemáticos introducidos en el libro: desde el sistema de numeración decimal hasta el concepto de números primos, demostrando que es posible encontrar listas de 100 números consecutivos sin primos. Además, hemos tocado temas como los números compuestos, positivos y negativos, las progresiones aritméticas, las fracciones equivalentes, el sistema métrico decimal, las ecuaciones, y las permutaciones. Finalmente, hemos recordado la anécdota de Gauss y la suma de los números del 1 al 100, para subrayar la importancia del razonamiento lógico y el cálculo mental.",
         "challenge": "Este juego se lo propone el gato de Cheshire a Alicia en el libro:\nUn ladrillo pesa un kilo más medio ladrillo, ¿cuánto pesa el ladrillo?",
         "id": "44"
@@ -696,7 +696,7 @@
         "season": "Temporada 8",
         "title": "Programa 78",
         "date": "2025-04-09",
-        "link": "",
+        "link": "https://cadenaser.com/audio/1765800037043/",
         "summary": "En este mateprograma hemos abordado la aplicación práctica de la geometría y el cálculo de distancias en contextos legales, centrándonos en un juicio real sobre la venta de drogas. La parte central del programa versó sobre la distancia mínima requerida por ley para la venta de sustancias cerca de centros escolares.\nExplicamos cómo se utiliza la geometría euclidiana para establecer la distancia más corta entre el punto de venta y el colegio, que es siempre una línea recta. Abordamos el problema de la distancia contando manzanas frente a la distancia en línea recta, y cómo este debate tiene consecuencias legales directas y cambia la tipificación del delito. ",
         "challenge": "En una fábrica reciclan todos sus materiales y pueden hacer un vaso de papel nuevo con nueve usados. ¿Cuántos vasos reciclados pueden fabricar si inicialmente tenían 505 vasos nuevos? ",
         "id": "78"
