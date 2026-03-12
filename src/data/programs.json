@@ -774,14 +774,13 @@
         "id": "86"
     },
     {
-        "id": "87",
+        "season": "Temporada 9",
         "title": "Programa 87",
         "date": "2026-03-11",
-        "season": "Temporada 9",
-        "summary": "",
-        "challenge": "Todos hemos hallado en alguna ocasión este problema: Dados los números 1 2 3 4 5 6 7 8 9 intercalar entre ellos los signos + ó - convenientemente para Lucy nació un domingo soleado en Hong Kong, y cumplió siete años en un domingo gris y lluvioso en Macao. ¿Cuántos años cumplió en 1996? Desde < https://www.mensa.es/juegosmensa/e096100.html > 2026-04-08 Novena temporada.",
-        "link": "",
-        "hidden": true
+        "link": "https://cadenaser.com/castillayleon/2026/03/11/problemas-de-suelo-bajo-y-techo-alto-ser-avila/",
+        "summary": "En este mateprograma hemos resuelto el reto anterior y le hemos dedicado tiempo a plantear cómo resolver un problema en Matemática, a organizarse, destripar el proble y actuar. Hemos hablado de los números primos, esos números naturales mayores que 1 que solo tienen dos divisores y que actúan como los “ladrillos” de todos los números gracias al teorema fundamental de la aritmética. Explicamos la demostración de Euclides de que existen infinitos primos y comentamos cómo matemáticos como Gauss y Riemann estudiaron su distribución. El récord actual se consiguió el 12 de octubre de 2024. Un investigador llamado Luke Durant descubrió un número primo gigantesco de la forma\nEl último número primo encontrado es 2 elevado a 136.279.841 menos 1. Este número tiene nada menos que 41.024.320 cifras. \nEl récord anterior se había descubierto en 2018 y tenía unos 24 millones de cifras, así que el nuevo récord lo superó por más de 16 millones de dígitos.\n",
+        "challenge": "Lucy nació un domingo soleado en Hong Kong, y cumplió siete años en un domingo gris y lluvioso en Macao. ¿Cuántos años cumplió en 1996?",
+        "id": "87"
     },
     {
         "id": "88",
