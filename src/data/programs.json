@@ -783,14 +783,14 @@
         "id": "87"
     },
     {
-        "id": "88",
-        "title": "Programa 88",
-        "date": "2026-04-08",
         "season": "Temporada 9",
-        "summary": "",
-        "challenge": "Lucy nació un domingo soleado en Hong Kong, y cumplió siete años en un domingo gris y lluvioso en Macao. ¿Cuántos años cumplió en 1996? Desde < https://www.mensa.es/juegosmensa/e096100.html > SOLUCIÓN: Lucy cumplió 100 años en 1996. Los cumpleaños sólo pueden caer en el mismo día de la semana cada siete años si no hay entre ellos un año bisiesto. 1900 no fue un año bisiesto porque no es divisible por 400, así que Lucy debió nacer en 1896, pues el siguiente año bisiesto fue 1904. Los detalles acerca del tiempo que hacía son sólo para despistar. Desde < https://www.mensa.es/juegosmensa/s096100.html#SOLU099 > Una compañía de tres socios, cuya confianza entre ellos es muy escasa, guarda sus fondos en una caja fuerte. ¿Cuántas cerraduras deben instalarse en la caja y cuántas llaves de ellas repartirse entre los socios para que uno sólo de ellos no pueda abrirla y sí dos cualesquiera?. Desde < https://www.mensa.es/juegosmensa/e131135.html > 2026-05-13 Novena temporada.",
-        "link": "",
-        "hidden": true
+        "title": "Programa 88",
+        "date": "2026-04-15",
+        "link": "https://cadenaser.com/castillayleon/2026/04/16/las-curiosidades-matematicas-del-calendario-y-de-los-anos-bisiestos-ser-avila/",
+        "summary": "En este mateprograma hemos explicado por qué existen los años bisiestos y cómo el calendario gregoriano corrige el desfase entre el año solar y el calendario mediante reglas especiales para los siglos. Resolvimos el acertijo de Lucy, que nació en 1896, y comentamos curiosidades como los leaplings y la precisión del calendario. También jugamos con cálculos de calendario: dentro de 1000 días será domingo, una fecha vuelve a caer el mismo día tras ciclos de 6, 11 y 28 años, y un año puede tener como máximo tres viernes 13. Cerramos destacando que, a lo largo del ciclo de 400 años, el viernes 13 es el día más frecuente para el número 13.",
+        "challenge": "Una compañía de tres socios, cuya confianza entre ellos es muy escasa, guarda sus fondos en una caja fuerte. ¿Cuántas cerraduras deben instalarse en la caja y cuántas llaves de ellas repartirse entre los socios para que uno sólo de ellos no pueda abrirla y sí dos cualesquiera?",
+        "hidden": false,
+        "id": "88"
     },
     {
         "id": "89",
