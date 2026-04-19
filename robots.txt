@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rujimenez05.github.io/somos_matematicas/sitemap.xml
