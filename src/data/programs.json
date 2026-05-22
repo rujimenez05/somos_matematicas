@@ -793,14 +793,14 @@
         "id": "88"
     },
     {
-        "id": "89",
+        "season": "Temporada 9",
         "title": "Programa 89",
         "date": "2026-05-13",
-        "season": "Temporada 9",
-        "summary": "OLIMPIADAS DE MATEMÁTICAS EN ÁVILA. Entrevista a Sonsoles, presidenta.",
-        "challenge": "Una compañía de tres socios, cuya confianza entre ellos es muy escasa, guarda sus fondos en una caja fuerte. ¿Cuántas cerraduras deben instalarse en la caja y cuántas llaves de ellas repartirse entre los socios para que uno sólo de ellos no pueda abrirla y sí dos cualesquiera?. Desde < https://www.mensa.es/juegosmensa/e131135.html > SOLUCIÓN: Basta con tres cerraduras A, B, C, y seis llaves, dos de cada cerradura, que se reparten a los socios según los lotes (L A ,L B ), (L A ,L C ) y (L B ,L C ). Desde < https://www.mensa.es/juegosmensa/s131135.html#SOLU134 > Dos relojes se ajustan con la hora del Big Ben a las doce en punto de la noche. Uno de ellos está estropeado y adelanta tres minutos por hora. Hace hora y cuarto que se detuvo señalando las 16:48. Teniendo en cuenta que no han pasado aún 24 horas, ¿qué hora señala el reloj que funciona bien? Desde < https://www.mensa.es/juegosmensa/e156160.html > 2026-06-10 Novena temporada.",
-        "link": "",
-        "hidden": true
+        "link": "https://cadenaser.com/castillayleon/2026/05/14/avila-acogera-a-finales-de-mes-la-olimpiada-regional-de-matematicas-ser-avila/",
+        "summary": "En este mateprograma entrevistamos a Sonsoles Blázquez, presidenta de la asociación castellana y leonesa de educación matemática \"Miguel de Guzmán\" que nos habla de las olimpiadas regionales que se celebran en Ávila el último fin de semana de mayo, de la prueba de selección de ESTALMAT y del programa de cooperación territorial para la mejora de la competencia matemática.\nAdemás nos plantea el reto para el mes que viene.",
+        "challenge": "Tienes 3 cajas de distintos tamaños y 5 piedras, ¿cómo colocas las piedras en las cajas para que haya un número impar diferente de piedras en cada caja?",
+        "hidden": false,
+        "id": "89"
     },
     {
         "id": "90",
