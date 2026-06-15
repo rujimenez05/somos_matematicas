@@ -803,14 +803,14 @@
         "id": "89"
     },
     {
-        "id": "90",
+        "season": "Temporada 9",
         "title": "Programa 90",
         "date": "2026-06-10",
-        "season": "Temporada 9",
-        "summary": "",
-        "challenge": "Dos relojes se ajustan con la hora del Big Ben a las doce en punto de la noche. Uno de ellos está estropeado y adelanta tres minutos por hora. Hace hora y cuarto que se detuvo señalando las 16:48. Teniendo en cuenta que no han pasado aún 24 horas, ¿qué hora señala el reloj que funciona bien? Desde < https://www.mensa.es/juegosmensa/e156160.html > SOLUCIÓN: El reloj erróneo se detuvo a las 16:48, es decir que había estado funcionando 16 horas (los 48 minutos que marca son los que ha adelantado en ese tiempo). Luego el otro reloj debe marcar las 17 horas 15 minutos. Desde < https://www.mensa.es/juegosmensa/s156160.html#SOLU159 > Hace muchos, muchos siglos atrás , una vieja reina muy extravagante encargó a su jardinero que plantara 12 árboles en 6 filas de 4 árboles cada una, de lo contrario haría cortar su cabeza. El jardinero quedó asombrado por un instante, pero luego dijo que lo haría con rapidez y facilidad. ¿Cómo hizo el astuto jardinero para salvar su preciada vida? Desde < https://www.mensa.es/juegosmensa/e161165.html > 2026-09-09 Décima temporada.",
-        "link": "",
-        "hidden": true
+        "link": "https://cadenaser.com/castillayleon/2026/06/12/las-olimpiadas-matematicas-y-el-acoso-de-las-empresas-de-inteligencia-artificial-ser-avila/",
+        "summary": "En el último matepprograma de la temporada hablamos del asalto de la inteligencia artificial a uno de los territorios que durante mucho tiempo consideramos exclusivamente humanos: la resolución creativa de problemas matemáticos.\n\nPartiendo del artículo de El País, recorrimos la historia reciente de las Olimpiadas Internacionales de Matemáticas y el revuelo generado cuando varias grandes empresas tecnológicas anunciaron que sus sistemas de inteligencia artificial habían alcanzado puntuaciones equivalentes a una medalla de oro en la IMO de 2025. Analizamos la polémica sobre si puede afirmarse que una máquina ha \"ganado\" una competición en la que no ha participado oficialmente y reflexionamos sobre si es justo comparar a modelos entrenados con enormes recursos computacionales con estudiantes de dieciséis o diecisiete años.\n\nTambién destacamos que resolver un problema matemático va mucho más allá de obtener la respuesta correcta: implica intuición, creatividad, perseverancia, ensayo y error, y la satisfacción de descubrir una idea elegante. Recordamos las opiniones de matemáticos como Terence Tao, que consideran estas herramientas extraordinarias, aunque todavía alejadas de reproducir plenamente la creatividad humana.\n\nhttps://elpais.com/ciencia/2026-03-22/como-los-gigantes-de-la-ia-intentaron-tomar-al-asalto-el-ultimo-reducto-de-la-mente-humana-las-olimpiadas-matematicas.html\n",
+        "challenge": "Hace muchos, muchos siglos atrás , una vieja reina muy extravagante encargó a su jardinero que plantara 18 árboles en 6 filas de 4 árboles cada una, de lo contrario haría cortar su cabeza. El jardinero quedó asombrado por un instante, pero luego dijo que lo haría con rapidez y facilidad.\n¿Cómo hizo el astuto jardinero para salvar su preciada vida?",
+        "hidden": false,
+        "id": "90"
     },
     {
         "id": "91",
