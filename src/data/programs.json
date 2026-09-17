@@ -813,14 +813,13 @@
         "id": "90"
     },
     {
-        "id": "91",
-        "title": "Programa 91",
-        "date": "2026-09-09",
         "season": "Temporada 10",
-        "summary": "",
-        "challenge": "Hace muchos, muchos siglos atrás , una vieja reina muy extravagante encargó a su jardinero que plantara 12 árboles en 6 filas de 4 árboles cada una, de lo contrario haría cortar su cabeza. El jardinero quedó asombrado por un instante, pero luego dijo que lo haría con rapidez y facilidad. ¿Cómo hizo el astuto jardinero para salvar su preciada vida? Desde < https://www.mensa.es/juegosmensa/e161165.html > SOLUCIÓN: Deseamos cocinar tres hamburguesas en el menor tiempo posible. Cada hamburguesa debe estar diez minutos en la parrilla, por cada uno de sus lados, para alcanzar el punto necesario, pero sucede que en la parrilla sólo hay espacio para dos hamburguesas. ¿Cuál es es tiempo mínimo para cocinar las tres hamburguesas y como lo haríamos? Desde < https://www.mensa.es/juegosmensa/e181185.html > 2026-10-14 Décima temporada.",
-        "link": "",
-        "hidden": true
+        "title": "Programa 91",
+        "date": "2026-09-16",
+        "link": "https://cadenaser.com/castillayleon/2026/09/17/el-numero-de-partidas-diferentes-de-ajedrez-que-podemos-jugar-supera-al-numero-de-atomos-del-universo-ser-avila/",
+        "summary": "En este mateprograma hemos hablado del ajedrez y de las matemáticas que se esconden detrás de un tablero de 64 casillas. Comenzamos con la leyenda del trigo y el tablero para explicar el crecimiento exponencial y llegamos a los más de 18 trillones de granos que resultarían de duplicar la cantidad en cada casilla. Después analizamos la enorme cantidad de partidas posibles y el llamado número de Shannon, del orden de \\(10^{120}\\), muy superior al número estimado de átomos del universo observable. Finalmente, vimos cómo esta gigantesca cantidad de posibilidades explica por qué los programas de ajedrez necesitan algoritmos para seleccionar y analizar las jugadas más prometedoras en lugar de intentar calcular todas las partidas posibles.",
+        "challenge": "El tablero de ajedrez tiene 64 casillas. Tenemos 8 filas y 8 columnas. Y esto nos permite plantear una pregunta muy sencilla: ¿cuántos cuadrados hay realmente en un tablero de ajedrez? Y si nuestro tablero fuera 10x10, ¿cuántos cuadrados tendría? ¿Y si fuera 12 por 12?\nComo extra, ¿cuántos rectángulos tendrá?",
+        "id": "91"
     },
     {
         "id": "92",
