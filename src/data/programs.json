@@ -822,14 +822,13 @@
         "id": "91"
     },
     {
-        "id": "92",
+        "season": "Temporada 10",
         "title": "Programa 92",
         "date": "2026-10-14",
-        "season": "Temporada 10",
-        "summary": "",
-        "challenge": "Deseamos cocinar tres hamburguesas en el menor tiempo posible. Cada hamburguesa debe estar diez minutos en la parrilla, por cada uno de sus lados, para alcanzar el punto necesario, pero sucede que en la parrilla sólo hay espacio para dos hamburguesas. ¿Cuál es es tiempo mínimo para cocinar las tres hamburguesas y como lo haríamos? Desde < https://www.mensa.es/juegosmensa/e181185.html > SOLUCIÓN: La solución más rápida es pensar en poner dos hamburguesas, a los 10 minutos darles la vuelta, por tanto tardan 20 minutos en hacerse y luego colocar la tercera hamburguesa que también tardará 20 minutos. En total nos saldrían 40 minutos. 2026-11-11 Décima temporada.",
-        "link": "",
-        "hidden": true
+        "link": "https://cadenaser.com/castillayleon/2026/10/15/las-matematicas-y-el-ajedrez-ser-avila/",
+        "summary": "En este mateprograma hemos continuado explorando las matemáticas que se esconden detrás del ajedrez. Hemos conocido el problema del recorrido del caballo, que consiste en visitar las 64 casillas sin repetir ninguna, y su relación con la teoría de grafos. También hemos planteado el problema de las ocho reinas, que tiene exactamente 92 soluciones, y explicado cómo los ordenadores pueden resolverlo mediante algoritmos de vuelta atrás (backtracking).\n\nHemos descubierto algunas propiedades matemáticas de las piezas, como los invariantes del alfil y del caballo, y cómo la paridad permite resolver determinados problemas sin necesidad de analizar todas las posibilidades. Después nos hemos adentrado en la teoría de juegos, con el teorema de Zermelo y la incógnita de si el ajedrez, jugado perfectamente, terminaría en victoria de las blancas, de las negras o en tablas.\n\nPor último, hemos recorrido la historia de la inteligencia artificial aplicada al ajedrez, desde la victoria de Deep Blue sobre Garry Kasparov en 1997 hasta AlphaZero, capaz de aprender jugando contra sí mismo. Un viaje en el que hemos comprobado que un sencillo tablero de 64 casillas puede esconder algunos de los problemas matemáticos y computacionales más fascinantes.",
+        "challenge": "El 25/06/1987 fue la última fecha que requirió 8 dígitos diferentes para escribirse. ¿En qué año ocurrirá la próxima fecha con estas características?",
+        "id": "92"
     },
     {
         "id": "93",
